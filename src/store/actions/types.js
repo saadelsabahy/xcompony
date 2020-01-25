@@ -1,0 +1,16 @@
+export const GET_MOVIES_CATEGORIES_SUCCESS = 'get_movies_categories_success';
+export const GET_MOVIES_CATEGORIES_FAILD = 'get_movies_categories_faild';
+export const GET_CATEGORIES_LOADING = 'get_categories_loading';
+export const GET_MOVIES_List_SUCCESS = 'get_movies_list_success';
+export const GET_MOVIES_List_FAILD = 'get_movies_list_faild';
+export const GET_MOVIES_List_LOADING = 'get_movies_list_loading';
+export const SEARCH_IMPUT_CHANGE = 'search_input_change';
+export const SEARCH_LOADING = 'search_loading';
+export const SEARCH_MOVIE_SUCCESS = 'search_movie_success';
+export const SEARCH_MOVIE_FAILD = 'search_movie_faild';
+export const INCREASE_PAGE = 'increase_page';
+export const EMPTY_SEARCH_DATA = 'empty_search_data';
+export const INCREASE_VIEWS = 'increase_views';
+export const ADD_TO_FAVOURITES = 'add_to_favourites';
+export const REMOVE_FROM_FAVOURITES = 'remove_from_favourites';
+export const RENDER_MOVIES_LIST = 'render_movies_list';
