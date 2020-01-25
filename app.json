@@ -18,6 +18,9 @@
       "androidStatusBar": {
          "backgroundColor": "#00000",
          "barStyle": "light-content"
+      },
+      "android": {
+         "package": "com.saad.xComponyTask"
       }
    }
 }
